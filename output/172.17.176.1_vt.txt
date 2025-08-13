@@ -1,0 +1,10 @@
+[IP] 172.17.176.1
+- Detected by: 0 AV engines
+- Reputation score: 0
+- Location: Unknown, Network owner: Unknown
+Communicating Files (3):
+  - 2b3947733cbb3c162f28c218c4e887d7eeb4d0e8b61e786c3f05df25bb0c1f3c
+  - a7d80ce66d7f004239173b56f68fcd924b8fffe115ceca017b1ae2fe3bd947a4
+  - dcc645814da75cf60226e2d6af0093caa2acdf41befd788df3a36356c294f33e
+
+=> Final Assessment: CLEAN IOC

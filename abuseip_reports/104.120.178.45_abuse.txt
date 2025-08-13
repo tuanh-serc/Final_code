@@ -1,0 +1,12 @@
+[IP] 104.120.178.45
+- IP Version: IPv4 | Public: True
+- ISP: Akamai Technologies, Inc. (Data Center/Web Hosting/Transit)
+- Geo Location: United States of America (US)
+- Reported 0 times by 0 distinct users
+- Abuse Confidence Score: 0% → Classification: Clean
+- Last reported at: None
+- Related Domain: akamai.com
+- Hostnames: a104-120-178-45.deploy.static.akamaitechnologies.com
+- TOR usage: No
+
+=>  Conclusion: Clean IOC (no abuse reports)

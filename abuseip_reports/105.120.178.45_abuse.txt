@@ -1,0 +1,12 @@
+[IP] 105.120.178.45
+- IP Version: IPv4 | Public: True
+- ISP: Airtel Networks Limited (Fixed Line ISP)
+- Geo Location: Nigeria (NG)
+- Reported 0 times by 0 distinct users
+- Abuse Confidence Score: 0% → Classification: Clean
+- Last reported at: None
+- Related Domain: airtel.com
+- Hostnames: None
+- TOR usage: No
+
+=>  Conclusion: Clean IOC (no abuse reports)
